@@ -1,4 +1,4 @@
-## Hi, I am Mustafa 👋
+## Hi, I am Mustafa 👋🏽
 
 I am a Fullstack developer who likes to code in Javascript. When I am not in front of a computer, you can find me in the dojo. 🥋
 
