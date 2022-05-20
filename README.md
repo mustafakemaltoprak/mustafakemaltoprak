@@ -2,7 +2,7 @@
 
 I am a Fullstack developer who likes to code in Javascript. When I am not in front of a computer, you can find me in the dojo. 🥋
 
-[![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafatoprak1/)](https://www.linkedin.com/in/mustafatoprak1/)
+[![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_Toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafatoprak1/)](https://www.linkedin.com/in/mustafatoprak1/)
 
 ## My projects
 
