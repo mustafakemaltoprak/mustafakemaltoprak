@@ -6,7 +6,7 @@ I am a Fullstack developer who likes to code in Javascript. When I am not in fro
 
 ## My projects
 
-### Jarvis [repo]([(https://github.com/mustafatoprak2/Jarvis)])
+### Jarvis [repo](https://github.com/mustafatoprak2/Jarvis)
 Jarvis is a virtual home assistant that makes your day to day life a little bit easier.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatoprak2&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
