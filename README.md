@@ -1,6 +1,6 @@
 ## Hi, I am Mustafa 👋🏽
 
-I'm a Fullstack developer who likes to code in Javascript. When I am not in front of a computer, you can find me in the dojo. 🥋
+I'm a Fullstack developer who likes to code in Javascript. When I'm not in front of a computer, you can find me in the dojo. 🥋
 
 [![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_Toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafatoprak1/)](https://www.linkedin.com/in/mustafatoprak1/)
 
