@@ -1,6 +1,6 @@
-## Hi, I am Tina 👋
+## Hi, I am Mustafa 👋
 
-I am a Fullstack developer 👩‍💻 who likes to code in Javascript, enjoys talking about serverless architecture and is searching for the perfect CICD pipeline. When I am not in front of a computer, you can find my exploring food markets 🥡, going up (🥾) or down (🏂) mountains or struggling with finger picking 🎸.
+I am a Fullstack developer who likes to code in Javascript. When I am not in front of a computer, you can find me in the dojo. 🥋
 
 [![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafatoprak1/)](https://www.linkedin.com/in/mustafatoprak1/)
 
