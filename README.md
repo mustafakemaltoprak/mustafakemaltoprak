@@ -2,7 +2,7 @@
 
 I'm a Fullstack developer who likes to code in Javascript. When I'm not in front of a computer, you can find me in the dojo. 🥋
 
-[![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_Toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafatoprak1/)](https://www.linkedin.com/in/mustafatoprak1/)
+[![Linkedin: Mustafa Toprak](https://img.shields.io/badge/-Mustafa_Toprak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafakemaltoprak/)](https://www.linkedin.com/in/mustafakemaltoprak/)
 
 ## My projects
 
@@ -16,4 +16,4 @@ GoPayMe is a web application for people who want to raise funds. It allows users
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatoprak2&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakemaltoprak&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
