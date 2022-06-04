@@ -6,17 +6,17 @@ I'm a Fullstack developer who likes to code in Javascript. When I'm not in front
 
 ## My projects
 
-### Jarvis [repo](https://github.com/mustafatoprak2/Jarvis)
+### [Jarvis](https://github.com/mustafatoprak2/Jarvis)
 Jarvis is a virtual home assistant that makes your day to day life a little bit easier.
 
 ##
 
-### GoPayMe [repo](https://github.com/mustafatoprak2/GoPayMe)
+### [GoPayMe](https://github.com/mustafatoprak2/GoPayMe)
 GoPayMe is a web application for people who want to raise funds. It allows users to find & create fundraisers, and stay in touch thanks to the social media aspect of the website.
 
 ##
 
-### Omega Wallet [repo](https://github.com/mustafatoprak2/Omega-Wallet)
+### [Omega Wallet](https://github.com/mustafatoprak2/Omega-Wallet)
 Omega Wallet is a fully functioning crypto wallet built on the ETH blockchain with a minimalist design.
 
 ##
