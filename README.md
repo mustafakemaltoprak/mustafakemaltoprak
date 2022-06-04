@@ -16,4 +16,9 @@ GoPayMe is a web application for people who want to raise funds. It allows users
 
 ##
 
+### Omega Wallet [repo](https://github.com/mustafatoprak2/Omega-Wallet)
+Omega Wallet is a fully functioning crypto wallet built on the ETH blockchain with a minimalist design.
+
+##
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakemaltoprak&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
