@@ -11,11 +11,6 @@ Jarvis is a virtual home assistant that makes your day to day life a little bit 
 
 ##
 
-### [GoPayMe](https://github.com/mustafakemaltoprak/GoPayMe)
-GoPayMe is a web application for people who want to raise funds. It allows users to find & create fundraisers, and stay in touch thanks to the social media aspect of the website.
-
-##
-
 ### [Omega Wallet](https://github.com/mustafakemaltoprak/Omega-Wallet)
 Omega Wallet is a fully functional crypto wallet built on the ETH blockchain with a minimalist design.
 
