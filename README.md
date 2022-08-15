@@ -11,7 +11,7 @@ Jarvis is a virtual home assistant, controlled by your voice.
 
 ##
 
-### [Nour](https://github.com/mustafakemaltoprak/Nour)
+### [Nour](https://github.com/mustafakemaltoprak/Nour) | [Nour App](https://github.com/mustafakemaltoprak/Nour-App)
 Nour helps ease the day to day tasks of Muslims.
 
 ##
